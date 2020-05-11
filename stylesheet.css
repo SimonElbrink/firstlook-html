@@ -1,0 +1,19 @@
+h1,
+h2,
+h3,
+h4 {
+  color: rgba(136, 184, 98, 0.8);
+}
+
+.section1 {
+  background-color: lightblue;
+}
+
+.section1 p {
+  color: lightcoral;
+}
+
+#secretSection {
+  background-color: bisque;
+  color: aqua;
+}
